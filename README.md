@@ -273,6 +273,21 @@ User growth
 Engagement metrics
 
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📊 Dashboard
+![dashboard](screenshots/dashboard.png)
+
+### 🎥 Submit New Project
+![submit](screenshots/submit.png)
+
+### 🎥 Submit New Project1
+![submit1](screenshots/submit1.png)
+
+
 📁 Project Structure
 powerfolio/
 ├── public/
